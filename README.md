@@ -10,6 +10,7 @@
         - [Linear search](#linear-search---przeszukiwanie-liniowe)
         - [Binary search](#binary-search---wyszukiwanie-binarne)
     - [Liczbowe](#liczbowe)
+        - [Sito Eratostenesa](#sito-eratostenesa)
 
 ## Wstęp
 Repozytorium zostało stworzone z myślą przygotowań do  egazminu maturalnego. 
@@ -53,3 +54,8 @@ Złożoność: **O(log n)**
 ![mergesort](./docs/binarysearch.gif)
 
 ### Liczbowe
+### [Sito Eratostenesa](./algorytmy/binarysearch.py)
+
+Złożoność: **O(n × log(log n))**
+
+![eratostenes](./docs/eratosthenes.gif)
