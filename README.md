@@ -3,6 +3,13 @@
 ## Spis treści
 - [Wstęp](#wstęp)
 - [Algorytmy](#algorytmy)
+    - [Sortujące](#sortujące)
+        - [Bubble sort](#bubble-sort---sortowanie-bąbelkowe)
+        - [Merge sort](#merge-sort---sortowanie-przez-scalanie)
+    - [Wyszukujące](#wyszukujące)
+        - [Linear search](#linear-search---przeszukiwanie-liniowe)
+        - [Binary search](#binary-search---wyszukiwanie-binarne)
+    - [Liczbowe](#liczbowe)
 
 ## Wstęp
 Repozytorium zostało stworzone z myślą przygotowań do  egazminu maturalnego. 
