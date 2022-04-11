@@ -19,6 +19,30 @@ Na stronie CKE jest dostępny [zbiór zadań](https://www.cke.gov.pl/images/_EGZ
 - Odpowiedzi Excel od 469 do 486 strony 
 - Odpowiedzi z baz danych od 486 do 503 strony 
 
-## Algorytmy
+# Algorytmy
+## Sortujące
+### [Bubble sort - Sortowanie bąbelkowe)](./algorytmy/bubblesort.py)
 
-...
+Złożoność: **O(n²)**
+
+![bubblesort](./docs/bubblesort.gif)
+### [Merge sort - Sortowanie przez scalanie](./algorytmy/mergesort.py)
+
+Złożoność: **O(n × log n)**
+
+![mergesort](./docs/mergesort.gif)
+
+### Wyszukujące
+### [Linear search - Przeszukiwanie liniowe](./algorytmy/linearsearch.py)
+
+Złożoność: **O(n)**
+
+![mergesort](./docs/linearsearch.gif)
+
+### [Binary search - Wyszukiwanie binarne](./algorytmy/binarysearch.py)
+
+Złożoność: **O(log n)**
+
+![mergesort](./docs/binarysearch.gif)
+
+### Liczbowe
