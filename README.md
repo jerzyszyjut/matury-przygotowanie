@@ -6,6 +6,7 @@
     - [Sortujące](#sortujące)
         - [Bubble sort](#bubble-sort---sortowanie-bąbelkowe)
         - [Merge sort](#merge-sort---sortowanie-przez-scalanie)
+        - [Quick sort](#quick-sort---sortowanie-szybkie)
     - [Wyszukujące](#wyszukujące)
         - [Linear search](#linear-search---przeszukiwanie-liniowe)
         - [Binary search](#binary-search---wyszukiwanie-binarne)
