@@ -40,18 +40,28 @@ Złożoność: **O(n × log n)**
 
 ![mergesort](./docs/mergesort.gif)
 
+### [Quick sort - Sortowanie szybkie](./algorytmy/quicksort.py)
+
+Średnia złożoność: **O(n × log n)**
+
+Najgorsza złożoność: **O(n²)**
+
+Często stosuje się zamiast merge sorta, ponieważ ma mniejszą złożoność pamięciową i niższą stałą czasową.
+
+![quicksort](./docs/quicksort.gif)
+
 ### Wyszukujące
 ### [Linear search - Przeszukiwanie liniowe](./algorytmy/linearsearch.py)
 
 Złożoność: **O(n)**
 
-![mergesort](./docs/linearsearch.gif)
+![linear](./docs/linearsearch.gif)
 
 ### [Binary search - Wyszukiwanie binarne](./algorytmy/binarysearch.py)
 
 Złożoność: **O(log n)**
 
-![mergesort](./docs/binarysearch.gif)
+![binary](./docs/binarysearch.gif)
 
 ### Liczbowe
 ### [Sito Eratostenesa](./algorytmy/eratostenes.py)
