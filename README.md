@@ -54,7 +54,7 @@ Złożoność: **O(log n)**
 ![mergesort](./docs/binarysearch.gif)
 
 ### Liczbowe
-### [Sito Eratostenesa](./algorytmy/binarysearch.py)
+### [Sito Eratostenesa](./algorytmy/eratostenes.py)
 
 Złożoność: **O(n × log(log n))**
 
