@@ -24,15 +24,10 @@ def czynniki_pierwsze(n):
         i += 1
 
 
-def dwucykliczne():
-    for ciag in ciagi:
-        if ciag[:len(ciag)//2] == ciag[len(ciag)//2:]:
-            yield ciag
-
-
 def pierwsze():
     print('1: ')
-    print(f'Ciągi: {list(dwucykliczne())}')
+    print(
+        f'Ciągi: {list(filter(lambda x: x[:len(x)//2] == x[len(x)//2:], ciagi))}')
     print()
 
 
