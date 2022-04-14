@@ -82,6 +82,8 @@ Wbudowany w Python
 import gcd from math
 ```
 
+Warto pamiętać, że NWD dla trzech liczb np. a, b, c, to NWD(NWD(a, b),c) 
+
 ### [NWW (Najmniejsza wspólna wielokrotność)](./algorytmy/nww.py)
 
 Wbudowany w Python od wersji 3.9
