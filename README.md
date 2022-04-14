@@ -70,3 +70,19 @@ Złożoność: **O(log n)**
 Złożoność: **O(n × log(log n))**
 
 ![eratostenes](./docs/eratosthenes.gif)
+
+### [Badanie pierwszości liczby](./algorytmy/isprime.py)
+
+### [Algorytm Euklidesa - NWD (Największy wspólny dzielnik)](./algorytmy/euclidean.py)
+
+Wbudowany w Python
+```python
+import gcd from math
+```
+
+### [NWW (Najmniejsza wspólna wielokrotność)](./algorytmy/nww.py)
+
+Wbudowany w Python od wersji 3.9
+```python
+import lcm from math
+```
