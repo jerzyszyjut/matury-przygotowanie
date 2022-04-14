@@ -86,3 +86,5 @@ Wbudowany w Python od wersji 3.9
 ```python
 import lcm from math
 ```
+
+### [Ciąg Fibonacciego](./algorytmy/fibonacci.py)
