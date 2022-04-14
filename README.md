@@ -73,6 +73,8 @@ Złożoność: **O(n × log(log n))**
 
 ### [Badanie pierwszości liczby](./algorytmy/isprime.py)
 
+### [Rozkładanie na czynniki pierwsze](./algorytmy/primefactors.py)
+
 ### [Algorytm Euklidesa - NWD (Największy wspólny dzielnik)](./algorytmy/euclidean.py)
 
 Wbudowany w Python
