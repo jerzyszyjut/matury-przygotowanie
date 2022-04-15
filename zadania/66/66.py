@@ -31,8 +31,7 @@ liczby_pierwsze = list(eratostenes(limit))
 
 def suma_cyfr(n):
     suma = 0
-    n = str(n)
-    for i in n:
+    for i in str(n):
         suma += int(i)
     return suma
 
