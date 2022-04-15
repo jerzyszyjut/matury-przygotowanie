@@ -1,8 +1,3 @@
-dane = [[int(k) for k in l.strip().split()] for l in open('./dane/66/trojki.txt').readlines()]
-
-limit = max(list(map(lambda x: max(x[0:2]), dane)))
-
-
 def czy_trojkat(liczby):
     if sum(liczby)-max(liczby) > max(liczby):
         return '1'
@@ -26,16 +21,16 @@ def eratostenes(limit):
                 a[j] = False
 
 
-liczby_pierwsze = list(eratostenes(limit))
-
-
 def suma_cyfr(n):
     suma = 0
-    n = str(n)
-    for i in n:
+    for i in str(n):
         suma += int(i)
     return suma
 
+
+dane = [[int(k) for k in l.strip().split()] for l in open('./dane/66/trojki.txt').readlines()]
+limit = max(list(map(lambda x: max(x[0:2]), dane)))
+liczby_pierwsze = list(eratostenes(limit))
 
 # 66.1
 print(list(filter(lambda x: (suma_cyfr(x[0]) + suma_cyfr(x[1])) == x[2], dane)))
