@@ -12,6 +12,11 @@
         - [Binary search](#binary-search---wyszukiwanie-binarne)
     - [Liczbowe](#liczbowe)
         - [Sito Eratostenesa](#sito-eratostenesa)
+        - [Badanie pierwszości liczby](#badanie-pierwszości-liczby)
+        - [Rozkładanie na czynniki pierwsze](#rozkładanie-na-czynniki-pierwsze)
+        - [Algorytm Euklidesa - NWD](#algorytm-euklidesa---nwd-największy-wspólny-dzielnik)
+        - [NWW](#nww-najmniejsza-wspólna-wielokrotność)
+        - [Ciąg Fibonacciego](#ciąg-fibonacciego)
 
 ## Wstęp
 Repozytorium zostało stworzone z myślą przygotowań do  egazminu maturalnego. 
