@@ -97,3 +97,5 @@ import lcm from math
 ```
 
 ### [Ciąg Fibonacciego](./algorytmy/fibonacci.py)
+
+### [Całkowanie numeryczne metodą prostokątów](./algorytmy/calki.py)
