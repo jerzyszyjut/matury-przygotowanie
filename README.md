@@ -18,7 +18,7 @@
         - [NWW](#nww-najmniejsza-wspólna-wielokrotność)
         - [Ciąg Fibonacciego](#ciąg-fibonacciego)
     - [Numeryczne](#numeryczne)
-        - [Całkowanie numeryczne metodą prostokątów](#calkowanie-numeryczne-metoda-prostokatow)
+        - [Całkowanie numeryczne metodą prostokątów](#całkowanie-numeryczne-metodą-prostokątów)
 
 ## Wstęp
 Repozytorium zostało stworzone z myślą przygotowań do  egazminu maturalnego. 
