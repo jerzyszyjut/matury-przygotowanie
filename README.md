@@ -17,6 +17,8 @@
         - [Algorytm Euklidesa - NWD](#algorytm-euklidesa---nwd-największy-wspólny-dzielnik)
         - [NWW](#nww-najmniejsza-wspólna-wielokrotność)
         - [Ciąg Fibonacciego](#ciąg-fibonacciego)
+    - [Numeryczne](#numeryczne)
+        - [Całkowanie numeryczne metodą prostokątów](#calkowanie-numeryczne-metoda-prostokatow)
 
 ## Wstęp
 Repozytorium zostało stworzone z myślą przygotowań do  egazminu maturalnego. 
