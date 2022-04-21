@@ -100,4 +100,6 @@ import lcm from math
 
 ### [Ciąg Fibonacciego](./algorytmy/fibonacci.py)
 
+### Numeryczne
+
 ### [Całkowanie numeryczne metodą prostokątów](./algorytmy/calki.py)
