@@ -12,9 +12,9 @@ def fib_recursive(n):
 def fib_dynamic(n):
     a, b = 0, 1
     if n == 1:
-        return a
-    if n == 0:
         return b
+    if n == 0:
+        return a
     for i in range(n-1):
         a, b = b, a + b
     return b
